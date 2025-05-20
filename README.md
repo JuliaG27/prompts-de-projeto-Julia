@@ -9,6 +9,10 @@
 
 ## <img src="https://github.com/user-attachments/assets/cbd5607b-f9cc-4acc-b08f-19a5c74571d0" width="30px"> PodCast Da Julia! </h2>
 
+<br>
+<br>
+<br>
+
 <p align="center">
   Aqui estão alguns dos prompts que usei durante a criação do projetos. Eles me ajudaram muito a criar meu projeto, resolver problemas e até gerar ideias novas com a ajuda de IAs. Se você também está começando um projeto ou precisa de inspiração, pode achar esses exemplos um tanto quanto úteis. Esse material tem como objetivo se aprofundar no curso da plataforma DIO de Prompts Inteligentes e auxiliar os demais em duvidas caso necessario.
 
@@ -20,7 +24,8 @@ Prompt 1:
 <br>
 <br>
 <br>
-
+<br>
+<br>
 
 ![Image](https://github.com/user-attachments/assets/76f45879-f348-4c89-9e35-705c10fcbc99)
 
