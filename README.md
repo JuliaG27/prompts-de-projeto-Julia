@@ -36,6 +36,7 @@ Aqui estão alguns dos prompts que usei durante a criação do projetos. Eles me
 
 ## 🧠 Sistemas Utilizados 
 
+<p>
 <br>
 
 - [Canva](https://www.canva.com)
