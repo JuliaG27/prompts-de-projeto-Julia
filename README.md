@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="300" src="https://github.com/user-attachments/assets/9c31d920-f860-4a7d-a6ce-4a40deee19ac">
+<img width="300" src="https://github.com/user-attachments/assets/9c31d920-f860-4a7d-a6ce-4a40deee19ac">
 
 
 [![🔴 LIVE CODE](https://github.com/user-attachments/assets/b17619b2-d8ea-46eb-9a2f-454115eca4f3)](https://github.com/JuliaG27)
