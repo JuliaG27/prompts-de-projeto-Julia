@@ -4,7 +4,7 @@
 
 [![🔴 LIVE CODE](https://github.com/user-attachments/assets/b17619b2-d8ea-46eb-9a2f-454115eca4f3)](https://github.com/JuliaG27)
 
-<span align="center"> 
+<p align="center"> 
 
 ## <img src="https://github.com/user-attachments/assets/cbd5607b-f9cc-4acc-b08f-19a5c74571d0" width="30px"> PodCast Da Julia! </h2>
 
