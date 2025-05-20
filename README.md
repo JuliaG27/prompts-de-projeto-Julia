@@ -34,7 +34,7 @@ Aqui estão alguns dos prompts que usei durante a criação do projetos. Eles me
 <div align="center"
 <img src="https://github.com/user-attachments/assets/fcf2ef79-a44e-4b12-8e02-896b97c53906" width="250px"/>
 
-## 🧠 Sistemas Utilizados 
+## 🧠 Sistemas Utilizados
 
 <p>
 <br>
