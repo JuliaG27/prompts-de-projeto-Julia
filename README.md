@@ -36,6 +36,8 @@
 
 ## 🧠 Sistemas Utilizados
 
+<br>
+
 - [Canva](https://www.canva.com)
 - [ChatGPT](https://chatgpt.com)
 - [ElevenLabs](https://elevenlabs.io/app/home)
