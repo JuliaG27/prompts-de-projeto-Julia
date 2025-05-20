@@ -22,7 +22,7 @@ Aqui estão alguns dos prompts que usei durante a criação do projetos. Eles me
 <br>
 
 
-[![Image](https://github.com/user-attachments/assets/76f45879-f348-4c89-9e35-705c10fcbc99)
+![Image](https://github.com/user-attachments/assets/76f45879-f348-4c89-9e35-705c10fcbc99)
 
 <br>
 <br>
