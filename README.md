@@ -29,7 +29,7 @@ Aqui estão alguns dos prompts que usei durante a criação do projetos. Eles me
 <br>
 <br>
 
-  # 🧠 Sistemas Utilizados
+  ## 🧠 Sistemas Utilizados
 
 - [Canva](https://www.canva.com) 
 - [ChatGPT](https://chatgpt.com)
