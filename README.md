@@ -1,6 +1,6 @@
 # prompts-de-projeto-Julia
 <p align="center">
-  Aqui estão alguns dos prompts que usei durante a criação do projetos. Eles me ajudaram muito a criar meu projeto, resolver problemas e até gerar ideias novas com a ajuda de IAs. Se você também está começando um projeto ou precisa de inspiração, pode achar esses exemplos um tanto quanto úteis. 
+  Aqui estão alguns dos prompts que usei durante a criação do projetos. Eles me ajudaram muito a criar meu projeto, resolver problemas e até gerar ideias novas com a ajuda de IAs. Se você também está começando um projeto ou precisa de inspiração, pode achar esses exemplos um tanto quanto úteis. Esse material tem como objetivo se aprofundar no curso da plataforma DIO de Prompts Inteligentes e auxiliar os demais em duvidas caso necessario.
 
 <p align="center">
 Prompt 1:
