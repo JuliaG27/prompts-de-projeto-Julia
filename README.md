@@ -36,14 +36,12 @@ Aqui estão alguns dos prompts que usei durante a criação do projetos. Eles me
 
   ## 🧠 Sistemas Utilizados
 
-<p>
-<br>
-
-  - [Canva](https://www.canva.com)
-  - [ChatGPT](https://chatgpt.com)
-  - [ElevenLabs](https://elevenlabs.io/app/home)
+- [Canva](https://www.canva.com)
+- [ChatGPT](https://chatgpt.com)
+- [ElevenLabs](https://elevenlabs.io/app/home)
 
 <br>
 <br>
 
 ##  🎀 Características
+
