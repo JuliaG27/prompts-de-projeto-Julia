@@ -38,5 +38,9 @@ Prompt 1:
 <img src="https://github.com/user-attachments/assets/fcf2ef79-a44e-4b12-8e02-896b97c53906" width="250px" />
 </div>
 
+## 🧠 Sistemas Utilizados
 
+- [Canva](https://www.canva.com)
+- [ChatGPT](https://chatgpt.com)
+- [ElevenLabs](https://elevenlabs.io/app/home)
 
