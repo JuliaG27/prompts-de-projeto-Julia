@@ -40,5 +40,8 @@ Aqui estão alguns dos prompts que usei durante a criação do projetos. Eles me
 - [ChatGPT](https://chatgpt.com)
 - [ElevenLabs](https://elevenlabs.io/app/home)
 
+<br>
+<br>
+
 ##  🎀 Características
 
