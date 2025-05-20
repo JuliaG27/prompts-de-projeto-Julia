@@ -3,7 +3,7 @@
 </p>
 
 
-[![🔴 LIVE CODE](https://github.com/user-attachments/assets/b17619b2-d8ea-46eb-9a2f-454115eca4f3)](https://github.com/JuliaG27)
+[🔴 LIVE CODE](https://github.com/user-attachments/assets/b17619b2-d8ea-46eb-9a2f-454115eca4f3)](https://github.com/JuliaG27)
 
 <span align="center"> 
 
