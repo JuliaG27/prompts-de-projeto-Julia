@@ -42,7 +42,7 @@ Prompt 1:
 
 ## 🧠 Sistemas Utilizados
 
-- [Canva](https://www.canva.com)
-- [ChatGPT](https://chatgpt.com)
-- [ElevenLabs](https://elevenlabs.io/app/home)
+[Canva](https://www.canva.com)
+[ChatGPT](https://chatgpt.com)
+[ElevenLabs](https://elevenlabs.io/app/home)
 
