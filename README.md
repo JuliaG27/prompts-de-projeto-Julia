@@ -1,4 +1,7 @@
-# prompts-de-projeto-Julia
+<p align="center"> 
+
+## <img src="https://github.com/user-attachments/assets/cbd5607b-f9cc-4acc-b08f-19a5c74571d0" width="30px"> PodCast Da Julia! </h2>
+
 <p align="center">
   Aqui estão alguns dos prompts que usei durante a criação do projetos. Eles me ajudaram muito a criar meu projeto, resolver problemas e até gerar ideias novas com a ajuda de IAs. Se você também está começando um projeto ou precisa de inspiração, pode achar esses exemplos um tanto quanto úteis. Esse material tem como objetivo se aprofundar no curso da plataforma DIO de Prompts Inteligentes e auxiliar os demais em duvidas caso necessario.
 
