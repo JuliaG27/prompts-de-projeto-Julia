@@ -1,4 +1,4 @@
-<p align="center"> 
+<span align="center"> 
 
 ## <img src="https://github.com/user-attachments/assets/cbd5607b-f9cc-4acc-b08f-19a5c74571d0" width="30px"> PodCast Da Julia! </h2>
 
