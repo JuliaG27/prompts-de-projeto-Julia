@@ -20,12 +20,6 @@
 Prompt 1:
 "Crie uma logo para um podcast com cores pasteis e uma silhueta de gato brincando."
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ![Image](https://github.com/user-attachments/assets/76f45879-f348-4c89-9e35-705c10fcbc99)
 
