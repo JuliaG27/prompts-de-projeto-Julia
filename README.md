@@ -53,4 +53,4 @@
 
 ## 🌷 PodCast
 
-- [Canva](https://www.notion.so/Podcast-Julia-1fb14aa15a8580f994e8c7c69f744099?pvs=4)
+- [PodCastJulia](https://www.notion.so/Podcast-Julia-1fb14aa15a8580f994e8c7c69f744099?pvs=4)
