@@ -22,7 +22,7 @@
 <br>
 
 
-![Image](https://github.com/user-attachments/assets/76f45879-f348-4c89-9e35-705c10fcbc99)
+![Image](https://github.com/user-attachments/assets/c30ec519-9d2a-4e1e-9db2-10ad77c65a67)
 
 <br>
 <br>
@@ -46,5 +46,6 @@
 - ChatGPT utilizado para criação de imagens e roteiro.
 - ElevenLabs utilizado para gerar audio do podcast.
 - Notio Utilizado para inserir todos os complementos. 
+
 
 
