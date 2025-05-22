@@ -1,3 +1,4 @@
+
    <p align="center">
       <img width="300" src="https://github.com/user-attachments/assets/9c31d920-f860-4a7d-a6ce-4a40deee19ac">
 
@@ -54,3 +55,8 @@
 ## 🌷 PodCast
 
 - [PodCastJulia](https://www.notion.so/Podcast-Julia-1fb14aa15a8580f994e8c7c69f744099?pvs=4)
+[MeuGitHub](https://github.com/JuliaG27)
+[CursoDio](https://web.dio.me/track/microsoft-50-anos-prompts-inteligentes?tab=about)
+
+
+![Image](https://github.com/user-attachments/assets/a867e476-0ecf-437b-a552-2926cead6c7b)
