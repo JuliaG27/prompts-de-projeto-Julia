@@ -34,13 +34,17 @@
   - [Canva](https://www.canva.com) 
   - [ChatGPT](https://chatgpt.com)
   - [ElevenLabs](https://elevenlabs.io/app/home)
+  - [Notion](https://www.notion.so/dd139d543abf4772b27a5afd46bd94bb)
+
 
 <br>
 <br>
 
 ## 🎀 Características
 
-
-
+- Canva utilizado na edição de imagens
+- ChatGPT utilizado para criação de imagens e roteiro.
+- ElevenLabs utilizado para gerar audio do podcast.
+- Notio Utilizado para inserir todos os complementos. 
 
 
